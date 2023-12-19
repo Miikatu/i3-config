@@ -1,3 +1,4 @@
+# Author: Miikatti
 ### Variables for settings (This makes changing them WAY easier!) ###
 set $mod                             Mod4
 set $smod                            Shift
